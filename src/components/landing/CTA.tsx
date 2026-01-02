@@ -20,7 +20,7 @@ const CTA = () => {
           <div className="relative z-10">
             <h2 className="mb-4 font-display text-4xl font-bold md:text-5xl">
               Ready to join{" "}
-              <span className="gradient-text">framez</span>?
+              <span className="gradient-text">Framez?</span>
             </h2>
             <p className="mx-auto mb-8 max-w-xl text-lg text-muted-foreground">
               Experience the future of social connection. Try our live demo now 
@@ -34,10 +34,10 @@ const CTA = () => {
                   Try Live Demo
                 </a>
               </Button>
-              <Button variant="heroOutline" size="xl">
+              {/* <Button variant="heroOutline" size="xl">
                 <Mail className="mr-2 h-5 w-5" />
                 Get Notified
-              </Button>
+              </Button> */}
             </div>
           </div>
         </motion.div>

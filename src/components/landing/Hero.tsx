@@ -39,14 +39,14 @@ const Hero = () => {
             </h1>
 
             <p className="mx-auto mb-8 max-w-xl text-lg text-muted-foreground lg:mx-0">
-              framez brings your social experience to life with instant updates, 
+              Framez brings your social experience to life with instant updates, 
               seamless interactions, and a beautiful interface designed for 
               genuine connections.
             </p>
 
             <div className="flex flex-col items-center gap-4 sm:flex-row lg:justify-start">
               <Button variant="hero" size="xl" asChild>
-                <a href="#demo">
+                <a href="https://drive.google.com/drive/folders/1pAq4yAqux0IfgiLkyRVErdsnDOpUN4Ci?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <Play className="mr-2 h-5 w-5" />
                   View Live Demo
                 </a>

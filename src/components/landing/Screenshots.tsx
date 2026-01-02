@@ -33,7 +33,7 @@ const Screenshots = () => {
           className="mb-16 text-center"
         >
           <h2 className="mb-4 font-display text-4xl font-bold md:text-5xl">
-            Experience <span className="gradient-text">framez</span>
+            Experience <span className="gradient-text">Framez</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg text-muted-foreground">
             A glimpse into the app that's redefining social connection.

@@ -43,7 +43,7 @@ const Features = () => {
           className="mb-16 text-center"
         >
           <h2 className="mb-4 font-display text-4xl font-bold md:text-5xl">
-            Why choose <span className="gradient-text">framez</span>?
+            Why choose <span className="gradient-text">Framez?</span>
           </h2>
           <p className="mx-auto max-w-2xl text-lg text-muted-foreground">
             Built from the ground up with modern technologies to deliver the 

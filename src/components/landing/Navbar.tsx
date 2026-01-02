@@ -12,10 +12,7 @@ const Navbar = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         {/* Logo */}
         <a href="/" className="flex items-center gap-2">
-          <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-accent">
-            <span className="font-display text-lg font-bold text-primary-foreground">f</span>
-          </div>
-          <span className="font-display text-xl font-bold">framez</span>
+          <span className="font-display text-xl font-bold">Framez</span>
         </a>
 
         {/* Nav links */}
