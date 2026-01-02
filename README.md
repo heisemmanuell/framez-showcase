@@ -2,8 +2,6 @@
 
 A modern, responsive landing page showcasing **Framez**, a real-time social media mobile application built with React Native and powered by Supabase for authentication and real-time database functionality.
 
-![Framez App Screenshot](src/assets/screenshot-feed.png)
-
 ## About Framez
 
 Framez is a cutting-edge social media app designed to bring your social experience to life with instant updates, seamless interactions, and a beautiful interface for genuine connections. Share your moments in real-time and stay connected with friends and communities that matter.
@@ -22,7 +20,7 @@ Framez is a cutting-edge social media app designed to bring your social experien
 - **Intuitive UI/UX**: Modern, clean design with animations and responsive layouts.
 - **Community Building**: Tools to connect with like-minded individuals.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 This showcase website is built with:
 
@@ -39,25 +37,13 @@ The mobile app itself uses:
 - **TypeScript**: For type-safe code
 - **Supabase**: For real-time database and authentication
 
-
-## 📱 Screenshots
-
-### Feed View
-![Feed Screenshot](src/assets/screenshot-feed.png)
-
-### Chat Interface
-![Chat Screenshot](src/assets/screenshot-chat.png)
-
-### Profile Page
-![Profile Screenshot](src/assets/screenshot-profile.png)
-
-## 🎥 Live Demo
+## Live Demo
 
 Experience Framez in action! View the live demo of the mobile app:
 
 [View Live Demo](https://drive.google.com/drive/folders/1pAq4yAqux0IfgiLkyRVErdsnDOpUN4Ci?usp=sharing)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
