@@ -29,7 +29,7 @@ const CTA = () => {
 
             <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
               <Button variant="hero" size="xl" asChild>
-                <a href="#demo">
+                <a href="https://drive.google.com/drive/folders/1pAq4yAqux0IfgiLkyRVErdsnDOpUN4Ci?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <Play className="mr-2 h-5 w-5" />
                   Try Live Demo
                 </a>

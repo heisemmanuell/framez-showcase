@@ -33,7 +33,7 @@ const Navbar = () => {
 
         {/* CTA */}
         <Button variant="hero" size="default" asChild>
-          <a href="#demo">View Demo</a>
+          <a href="https://drive.google.com/drive/folders/1pAq4yAqux0IfgiLkyRVErdsnDOpUN4Ci?usp=sharing" target="_blank" rel="noopener noreferrer">View Demo</a>
         </Button>
       </div>
     </motion.nav>

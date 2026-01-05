@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Play, ArrowRight } from "lucide-react";
-import screenshotFeed from "@/assets/screenshot-feed.png";
+import { Play, ArrowRight, Github } from "lucide-react";
+import hero from "@/assets/hero.png";
 
 const Hero = () => {
   return (
@@ -52,9 +52,9 @@ const Hero = () => {
                 </a>
               </Button>
               <Button variant="heroOutline" size="xl" asChild>
-                <a href="#features">
-                  Learn More
-                  <ArrowRight className="ml-2 h-5 w-5" />
+                <a href="https://github.com/heisemmanuell/Framez" target="_blank" rel="noopener noreferrer">
+                  Github
+                  <Github className="ml-2 h-5 w-5" />
                 </a>
               </Button>
             </div>
@@ -96,7 +96,7 @@ const Hero = () => {
               <div className="relative rounded-[3rem] border-4 border-muted bg-card p-2 shadow-2xl">
                 <div className="overflow-hidden rounded-[2.5rem]">
                   <img
-                    src={screenshotFeed}
+                    src={hero}
                     alt="framez app feed"
                     className="h-[600px] w-auto object-cover"
                   />

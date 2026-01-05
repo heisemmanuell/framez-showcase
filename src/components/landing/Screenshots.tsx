@@ -16,8 +16,8 @@ const screenshots = [
   },
   {
     image: screenshotChat,
-    title: "Messaging",
-    description: "Connect with friends through instant chat",
+    title: "Post",
+    description: "Engage instantly with likes and comments",
   },
 ];
 
@@ -59,7 +59,7 @@ const Screenshots = () => {
                   <img
                     src={screenshot.image}
                     alt={screenshot.title}
-                    className="h-[500px] w-auto object-cover"
+                    className="h-[610px] w-auto object-cover"
                   />
                 </div>
                 {/* Notch */}
